@@ -1,7 +1,7 @@
 {
-  "name": "react-dimensions",
-  "version": "2.0.0-alpha1",
-  "description": "React [higher-order component](https://gist.github.com/sebmarkbage/ef0bf1f338a7182b6775) to get dimensions of container",
+  "name": "react-dimensions-cjs",
+  "version": "2.0.0",
+  "description": "Bugfix for React [higher-order component](https://gist.github.com/sebmarkbage/ef0bf1f338a7182b6775) to get dimensions of container",
   "main": "index.js",
   "standard": {
     "parser": "babel-eslint"
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/digidem/react-dimensions.git"
+    "url": "git+https://github.com/cjsheets/react-dimensions.git"
   },
   "files": [
     "index.js"
